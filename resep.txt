@@ -7,5 +7,5 @@ bahan-bahan :
 langkah-langkah :
 1. masukkan miyak
 2. panaskan minyak sampai didih
-3. masukkan nasi ke dalam wajan
-4. masukkan telur 
+3. masukkan telur 
+4. masukkan nasi ke dalam wajan
