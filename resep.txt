@@ -4,5 +4,8 @@ bahan-bahan :
 - nasi
 - telur
 
-langkah-langkah 
-1. goreng nasi
+langkah-langkah :
+1. masukkan miyak
+2. panaskan minyak sampai didih
+3. masukkan nasi ke dalam wajan
+4. masukkan telur 
